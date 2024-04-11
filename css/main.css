@@ -32,6 +32,8 @@ h1 {
   font-weight: 400;
   font-style: normal;
   font-size: 50px;
+  background-image: linear-gradient(to bottom right, rgb(0, 229, 255), rgb(252, 117, 243));
+  
 }
 
 .pre-bday-outer {
@@ -53,3 +55,5 @@ h1 {
   font-size: 25px;
 
 }
+
+
