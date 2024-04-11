@@ -49,15 +49,19 @@ h1 {
 .pre-bday-row {
   display: flex;
   gap: 20px;
+  color:#ff00c3; 
 }
 
 .pre-bday-meta {
   font-size: 50px;
   color:blueviolet;
 
+
 }
 
 
 .intro-para {
   font-size: 20px;
+  color:black;
+  
 }
