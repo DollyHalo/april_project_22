@@ -3,6 +3,8 @@ main {
   flex: 1;
   background: rgb(251, 1, 255);
 }
+
+
 .satisfy-regular {
   font-family: "Satisfy", cursive;
   font-weight: 400;
